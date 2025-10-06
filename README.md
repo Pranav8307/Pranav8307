@@ -10,7 +10,9 @@
 - **Data Handling:** Pandas, NumPy, Matplotlib, REST APIs  
 - **Version Control:** Git, GitHub
 
---
+
+---
+
 
 ## 🤖 Featured Project
 ### 🧠 [Face Intelligence System]
