@@ -4,15 +4,15 @@
 
 💡 I focus on blending **machine learning**, **backend development**, and **cloud technologies** to create practical, scalable solutions.
 
+---
+
 ## 💻 Core Skills
 - **Backend Development:** Python, Django, FastAPI  
 - **Machine Learning & AI:** scikit-learn, PyTorch, OpenCV, FAISS  
 - **Data Handling:** Pandas, NumPy, Matplotlib, REST APIs  
-- **Version Control:** Git, GitHub
-
+- **Version Control:** Git, GitHub  
 
 ---
-
 
 ## 🤖 Featured Project
 ### 🧠 [Face Intelligence System]
@@ -24,6 +24,8 @@ An AI-powered face recognition, clustering, and verification system using FastAP
 
 *(Currently evolving into a full-stack hybrid system with FastAPI backend and Streamlit frontend.)*
 
+---
+
 ## 🌱 Exploring & Expanding Into
 - **Mobile Development:** Android (Kotlin), React Native  
 - **Frontend Technologies:** React.js, TailwindCSS  
@@ -31,14 +33,19 @@ An AI-powered face recognition, clustering, and verification system using FastAP
 
 I’m continuously expanding my skillset, combining intelligent backends, modern UIs, and scalable deployments.
 
+---
+
 ## 🚀 What I'm Currently Working On
 - Rebuilding my projects portfolio and freelancing setup  
 - Improving deployment workflows using Docker and cloud tools  
 - Building ML APIs for real-time prediction and analytics  
 
+---
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/pranav2602)  
-- 📧 Email: **pranav260205@gmail.com** 
+- 📧 Email: **pranav260205@gmail.com**   
+
+---
 
 ⚡ *“Turning complex AI ideas into simple, deployable solutions.”*
