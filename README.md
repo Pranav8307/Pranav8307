@@ -8,7 +8,9 @@
 - **Backend Development:** Python, Django, FastAPI  
 - **Machine Learning & AI:** scikit-learn, PyTorch, OpenCV, FAISS  
 - **Data Handling:** Pandas, NumPy, Matplotlib, REST APIs  
-- **Version Control:** Git, GitHub  
+- **Version Control:** Git, GitHub
+
+--
 
 ## 🤖 Featured Project
 ### 🧠 [Face Intelligence System]
@@ -37,4 +39,4 @@ I’m continuously expanding my skillset, combining intelligent backends, modern
 - 💼 [LinkedIn](https://linkedin.com/in/pranav2602)  
 - 📧 Email: **pranav260205@gmail.com** 
 
-⚡ **“Turning complex AI ideas into simple, deployable solutions.”**
+⚡ *“Turning complex AI ideas into simple, deployable solutions.”*
